@@ -1,0 +1,15 @@
+{
+  "url": "https://www.scrapethissite.com/pages/forms/",
+  "extract_rules": [
+    {
+      "id": "year1",
+      "selector": ".year1",
+      "extract_type": "text"
+    },
+    {
+      "id": "full_html",
+      "selector": "html",
+      "extract_type": "html"
+    }
+  ]
+}
